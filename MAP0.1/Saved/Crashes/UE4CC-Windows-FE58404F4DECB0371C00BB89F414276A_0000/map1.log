@@ -1,0 +1,1428 @@
+﻿Log file open, 07/29/19 19:06:20
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: map1
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.491035
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 970
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.07.29-11.06.21:444][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.07.29-11.06.21:444][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.07.29-11.06.21:444][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/MAP/map1/Saved/Config/Windows/Engine.ini]
+[2019.07.29-11.06.21:444][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.07.29-11.06.21:444][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2019.07.29-11.06.21:444][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2019.07.29-11.06.21:444][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2019.07.29-11.06.21:444][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2019.07.29-11.06.21:444][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2019.07.29-11.06.21:444][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2019.07.29-11.06.21:444][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2019.07.29-11.06.21:444][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2019.07.29-11.06.21:444][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2019.07.29-11.06.21:444][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2019.07.29-11.06.21:444][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2019.07.29-11.06.21:444][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2019.07.29-11.06.21:444][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2019.07.29-11.06.21:444][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2019.07.29-11.06.21:444][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2019.07.29-11.06.21:444][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2019.07.29-11.06.21:444][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2019.07.29-11.06.21:444][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2019.07.29-11.06.21:444][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2019.07.29-11.06.21:444][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2019.07.29-11.06.21:444][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2019.07.29-11.06.21:444][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2019.07.29-11.06.21:444][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2019.07.29-11.06.21:444][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2019.07.29-11.06.21:444][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2019.07.29-11.06.21:444][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2019.07.29-11.06.21:444][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2019.07.29-11.06.21:444][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2019.07.29-11.06.21:444][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2019.07.29-11.06.21:444][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2019.07.29-11.06.21:444][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2019.07.29-11.06.21:444][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2019.07.29-11.06.21:444][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2019.07.29-11.06.21:445][  0]LogConfig: Setting CVar [[r.DOF.Algorithm:1]]
+[2019.07.29-11.06.21:445][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2019.07.29-11.06.21:445][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2019.07.29-11.06.21:445][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2019.07.29-11.06.21:445][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:1]]
+[2019.07.29-11.06.21:445][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2019.07.29-11.06.21:445][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2019.07.29-11.06.21:445][  0]LogConfig: Setting CVar [[r.UsePreExposure:0]]
+[2019.07.29-11.06.21:445][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:1]]
+[2019.07.29-11.06.21:445][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2019.07.29-11.06.21:445][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2019.07.29-11.06.21:445][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:2]]
+[2019.07.29-11.06.21:445][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2019.07.29-11.06.21:445][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2019.07.29-11.06.21:445][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2019.07.29-11.06.21:445][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2019.07.29-11.06.21:445][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2019.07.29-11.06.21:445][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2019.07.29-11.06.21:445][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2019.07.29-11.06.21:445][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2019.07.29-11.06.21:445][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2019.07.29-11.06.21:445][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2019.07.29-11.06.21:445][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2019.07.29-11.06.21:445][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2019.07.29-11.06.21:445][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2019.07.29-11.06.21:445][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2019.07.29-11.06.21:445][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2019.07.29-11.06.21:445][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2019.07.29-11.06.21:445][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2019.07.29-11.06.21:445][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2019.07.29-11.06.21:445][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2019.07.29-11.06.21:445][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2019.07.29-11.06.21:446][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2019.07.29-11.06.21:446][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2019.07.29-11.06.21:446][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2019.07.29-11.06.21:446][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2019.07.29-11.06.21:446][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2019.07.29-11.06.21:446][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2019.07.29-11.06.21:446][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2019.07.29-11.06.21:446][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2019.07.29-11.06.21:446][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2019.07.29-11.06.21:446][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2019.07.29-11.06.21:446][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2019.07.29-11.06.21:446][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2019.07.29-11.06.21:446][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2019.07.29-11.06.21:446][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2019.07.29-11.06.21:446][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2019.07.29-11.06.21:446][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2019.07.29-11.06.21:446][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2019.07.29-11.06.21:446][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2019.07.29-11.06.21:446][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2019.07.29-11.06.21:446][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2019.07.29-11.06.21:446][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/MAP/map1/Saved/Config/Windows/Engine.ini]
+[2019.07.29-11.06.21:446][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/MAP/map1/Saved/Config/Windows/Engine.ini]
+[2019.07.29-11.06.21:446][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.07.29-11.06.21:446][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.07.29-11.06.21:446][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.07.29-11.06.21:446][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.07.29-11.06.21:446][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.07.29-11.06.21:446][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.07.29-11.06.21:446][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.07.29-11.06.21:446][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.07.29-11.06.21:446][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.07.29-11.06.21:446][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.07.29-11.06.21:446][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.07.29-11.06.21:446][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.07.29-11.06.21:446][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.07.29-11.06.21:446][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/MAP/map1/Saved/Config/Windows/Engine.ini]
+[2019.07.29-11.06.21:446][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.07.29-11.06.21:446][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.07.29-11.06.21:446][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.07.29-11.06.21:447][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.07.29-11.06.21:447][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.07.29-11.06.21:447][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.07.29-11.06.21:447][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.07.29-11.06.21:447][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.07.29-11.06.21:447][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.07.29-11.06.21:447][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.07.29-11.06.21:447][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.07.29-11.06.21:447][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.07.29-11.06.21:447][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.07.29-11.06.21:447][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/MAP/map1/Saved/Config/Windows/Engine.ini]
+[2019.07.29-11.06.21:447][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/MAP/map1/Saved/Config/Windows/Engine.ini]
+[2019.07.29-11.06.21:453][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/MAP/map1/Saved/Config/Windows/Scalability.ini]
+[2019.07.29-11.06.21:453][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.07.29-11.06.21:453][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.07.29-11.06.21:453][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/MAP/map1/Saved/Config/Windows/Scalability.ini]
+[2019.07.29-11.06.21:453][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.07.29-11.06.21:453][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/MAP/map1/Saved/Config/Windows/Scalability.ini]
+[2019.07.29-11.06.21:454][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.07.29-11.06.21:454][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.07.29-11.06.21:454][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.07.29-11.06.21:454][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.07.29-11.06.21:454][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.07.29-11.06.21:454][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.07.29-11.06.21:454][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.07.29-11.06.21:454][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.07.29-11.06.21:454][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.07.29-11.06.21:454][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.07.29-11.06.21:454][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.07.29-11.06.21:454][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.07.29-11.06.21:454][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.07.29-11.06.21:454][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.07.29-11.06.21:454][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.07.29-11.06.21:454][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.07.29-11.06.21:454][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.07.29-11.06.21:454][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.07.29-11.06.21:454][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/MAP/map1/Saved/Config/Windows/Scalability.ini]
+[2019.07.29-11.06.21:454][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.07.29-11.06.21:454][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.07.29-11.06.21:454][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.07.29-11.06.21:454][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.07.29-11.06.21:454][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.07.29-11.06.21:454][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.07.29-11.06.21:454][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.07.29-11.06.21:454][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.07.29-11.06.21:454][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.07.29-11.06.21:454][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.07.29-11.06.21:454][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.07.29-11.06.21:454][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.07.29-11.06.21:454][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.07.29-11.06.21:454][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.07.29-11.06.21:454][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.07.29-11.06.21:454][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.07.29-11.06.21:454][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.07.29-11.06.21:454][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.07.29-11.06.21:454][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.07.29-11.06.21:454][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.07.29-11.06.21:454][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.07.29-11.06.21:454][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.07.29-11.06.21:454][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.07.29-11.06.21:454][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.07.29-11.06.21:454][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.07.29-11.06.21:454][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.07.29-11.06.21:454][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.07.29-11.06.21:454][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.07.29-11.06.21:454][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.07.29-11.06.21:454][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.07.29-11.06.21:454][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/MAP/map1/Saved/Config/Windows/Scalability.ini]
+[2019.07.29-11.06.21:454][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.07.29-11.06.21:454][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.07.29-11.06.21:455][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.07.29-11.06.21:455][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.07.29-11.06.21:455][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.07.29-11.06.21:455][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.07.29-11.06.21:455][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.07.29-11.06.21:455][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.07.29-11.06.21:455][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/MAP/map1/Saved/Config/Windows/Scalability.ini]
+[2019.07.29-11.06.21:455][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.07.29-11.06.21:455][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.07.29-11.06.21:455][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.07.29-11.06.21:455][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.07.29-11.06.21:455][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.07.29-11.06.21:455][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.07.29-11.06.21:455][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.07.29-11.06.21:455][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.07.29-11.06.21:455][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.07.29-11.06.21:455][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.07.29-11.06.21:455][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.07.29-11.06.21:455][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.07.29-11.06.21:455][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.07.29-11.06.21:455][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/MAP/map1/Saved/Config/Windows/Scalability.ini]
+[2019.07.29-11.06.21:455][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.07.29-11.06.21:455][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.07.29-11.06.21:455][  0]LogInit: Selected Device Profile: [Windows]
+[2019.07.29-11.06.21:455][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.07.29-11.06.21:473][  0]LogHAL: Display: Platform has ~ 16 GB [17090224128 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.07.29-11.06.21:473][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.07.29-11.06.21:473][  0]LogInit: Going up to parent DeviceProfile []
+[2019.07.29-11.06.21:474][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/MAP/map1/Saved/Config/Windows/Scalability.ini]
+[2019.07.29-11.06.21:474][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.07.29-11.06.21:474][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.07.29-11.06.21:474][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/MAP/map1/Saved/Config/Windows/Scalability.ini]
+[2019.07.29-11.06.21:474][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.07.29-11.06.21:474][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/MAP/map1/Saved/Config/Windows/Scalability.ini]
+[2019.07.29-11.06.21:474][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.07.29-11.06.21:474][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.07.29-11.06.21:474][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.07.29-11.06.21:474][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.07.29-11.06.21:474][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.07.29-11.06.21:474][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.07.29-11.06.21:474][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.07.29-11.06.21:474][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.07.29-11.06.21:474][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.07.29-11.06.21:474][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.07.29-11.06.21:474][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.07.29-11.06.21:474][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.07.29-11.06.21:474][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.07.29-11.06.21:474][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.07.29-11.06.21:474][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.07.29-11.06.21:474][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.07.29-11.06.21:474][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.07.29-11.06.21:474][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.07.29-11.06.21:474][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/MAP/map1/Saved/Config/Windows/Scalability.ini]
+[2019.07.29-11.06.21:474][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.07.29-11.06.21:474][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.07.29-11.06.21:474][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.07.29-11.06.21:474][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.07.29-11.06.21:474][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.07.29-11.06.21:474][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.07.29-11.06.21:474][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.07.29-11.06.21:474][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.07.29-11.06.21:474][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.07.29-11.06.21:474][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.07.29-11.06.21:474][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.07.29-11.06.21:474][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.07.29-11.06.21:474][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.07.29-11.06.21:474][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.07.29-11.06.21:474][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.07.29-11.06.21:474][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.07.29-11.06.21:474][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.07.29-11.06.21:474][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.07.29-11.06.21:474][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.07.29-11.06.21:474][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.07.29-11.06.21:474][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.07.29-11.06.21:474][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.07.29-11.06.21:474][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.07.29-11.06.21:475][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.07.29-11.06.21:475][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.07.29-11.06.21:475][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.07.29-11.06.21:475][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.07.29-11.06.21:475][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.07.29-11.06.21:475][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.07.29-11.06.21:475][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.07.29-11.06.21:475][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/MAP/map1/Saved/Config/Windows/Scalability.ini]
+[2019.07.29-11.06.21:475][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.07.29-11.06.21:475][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.07.29-11.06.21:475][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.07.29-11.06.21:475][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.07.29-11.06.21:475][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.07.29-11.06.21:475][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.07.29-11.06.21:475][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.07.29-11.06.21:475][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.07.29-11.06.21:475][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/MAP/map1/Saved/Config/Windows/Scalability.ini]
+[2019.07.29-11.06.21:475][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.07.29-11.06.21:475][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.07.29-11.06.21:475][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.07.29-11.06.21:475][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.07.29-11.06.21:475][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.07.29-11.06.21:475][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.07.29-11.06.21:475][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.07.29-11.06.21:475][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.07.29-11.06.21:475][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.07.29-11.06.21:475][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.07.29-11.06.21:475][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.07.29-11.06.21:475][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.07.29-11.06.21:475][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.07.29-11.06.21:475][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/MAP/map1/Saved/Config/Windows/Scalability.ini]
+[2019.07.29-11.06.21:475][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.07.29-11.06.21:475][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.07.29-11.06.21:475][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.07.29-11.06.21:476][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.07.29-11.06.21:476][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.07.29-11.06.21:476][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/MAP/map1/Saved/Config/Windows/Engine.ini]
+[2019.07.29-11.06.21:476][  0]LogInit: Computer: DESKTOP-2GSE1PU
+[2019.07.29-11.06.21:476][  0]LogInit: User: v8386
+[2019.07.29-11.06.21:476][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.07.29-11.06.21:476][  0]LogInit: High frequency timer resolution =3.328122 MHz
+[2019.07.29-11.06.21:476][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.07.29-11.06.21:476][  0]LogMemory: Platform Memory Stats for Windows
+[2019.07.29-11.06.21:476][  0]LogMemory: Process Physical Memory: 96.00 MB used, 96.00 MB peak
+[2019.07.29-11.06.21:476][  0]LogMemory: Process Virtual Memory: 90.84 MB used, 90.84 MB peak
+[2019.07.29-11.06.21:476][  0]LogMemory: Physical Memory: 7905.59 MB used,  8392.91 MB free, 16298.51 MB total
+[2019.07.29-11.06.21:476][  0]LogMemory: Virtual Memory: 4646.49 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.07.29-11.06.21:833][  0]LogInit: Overriding language with editor language configuration option (en).
+[2019.07.29-11.06.21:833][  0]LogInit: Overriding locale with editor culture configuration option ().
+[2019.07.29-11.06.21:833][  0]LogInit: Using OS detected locale (zh-TW).
+[2019.07.29-11.06.22:102][  0]LogInit: Setting process to per monitor DPI aware
+[2019.07.29-11.06.22:269][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.07.29-11.06.22:269][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.07.29-11.06.22:766][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.07.29-11.06.22:766][  0]LogD3D11RHI: D3D11 adapters:
+[2019.07.29-11.06.23:011][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2019.07.29-11.06.23:011][  0]LogD3D11RHI:       4043/0/8149 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.07.29-11.06.23:019][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.07.29-11.06.23:019][  0]LogD3D11RHI:       0/0/8149 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.07.29-11.06.23:019][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.07.29-11.06.23:029][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.07.29-11.06.23:029][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2019.07.29-11.06.23:029][  0]LogWindows: EnumDisplayDevices:
+[2019.07.29-11.06.23:030][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2019.07.29-11.06.23:031][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2019.07.29-11.06.23:032][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2019.07.29-11.06.23:032][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2019.07.29-11.06.23:033][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.07.29-11.06.23:033][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2019.07.29-11.06.23:033][  0]LogD3D11RHI:   Driver Version: 431.36 (internal:26.21.14.3136, unified:431.36)
+[2019.07.29-11.06.23:033][  0]LogD3D11RHI:      Driver Date: 7-3-2019
+[2019.07.29-11.06.23:033][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2019.07.29-11.06.23:126][  0]LogD3D11RHI: Async texture creation enabled
+[2019.07.29-11.06.23:132][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.07.29-11.06.23:133][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.07.29-11.06.23:133][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.07.29-11.06.23:148][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.07.29-11.06.24:118][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.07.29-11.06.24:167][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.07.29-11.06.24:216][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.07.29-11.06.24:265][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.07.29-11.06.24:314][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.07.29-11.06.24:366][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.07.29-11.06.24:414][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.07.29-11.06.24:462][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.07.29-11.06.24:498][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.07.29-11.06.24:652][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.07.29-11.06.24:652][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.07.29-11.06.24:652][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.07.29-11.06.24:652][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.07.29-11.06.24:652][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.07.29-11.06.24:652][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.07.29-11.06.24:652][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.07.29-11.06.24:652][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.07.29-11.06.24:652][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.07.29-11.06.24:652][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.07.29-11.06.24:652][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.07.29-11.06.24:652][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.07.29-11.06.24:653][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.07.29-11.06.24:653][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.07.29-11.06.24:653][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.07.29-11.06.24:653][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.07.29-11.06.24:653][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.07.29-11.06.24:653][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.07.29-11.06.24:678][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.07.29-11.06.24:803][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.07.29-11.06.24:803][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.07.29-11.06.24:861][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.07.29-11.06.24:861][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.07.29-11.06.24:902][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.07.29-11.06.24:944][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.07.29-11.06.24:988][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.07.29-11.06.25:030][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.07.29-11.06.25:131][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.07.29-11.06.25:131][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.07.29-11.06.25:131][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.07.29-11.06.25:250][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.07.29-11.06.25:880][  0]LogShaderCompilers: Guid format shader working directory is 23 characters bigger than the processId version (../../../../../MAP/map1/Intermediate/Shaders/WorkingDirectory/6516/).
+[2019.07.29-11.06.25:881][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/v8386/AppData/Local/Temp/UnrealShaderWorkingDir/0C0B7F634A9BD181B8B856B4D3AEF70D/'.
+[2019.07.29-11.06.25:890][  0]LogXGEController: Cleaning working directory: C:/Users/v8386/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.07.29-11.06.25:892][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.07.29-11.06.25:892][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.07.29-11.06.25:892][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.07.29-11.06.26:931][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.07.29-11.06.27:002][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/v8386/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.07.29-11.06.27:003][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/v8386/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.07.29-11.06.27:003][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../MAP/map1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.07.29-11.06.27:003][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.07.29-11.06.27:003][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../MAP/map1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.07.29-11.06.27:003][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.07.29-11.06.27:022][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.07.29-11.06.27:022][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.07.29-11.06.27:022][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.07.29-11.06.27:036][  0]LogDerivedDataCache: Using Local data cache path C:/Users/v8386/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.07.29-11.06.27:036][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.07.29-11.06.27:036][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.07.29-11.06.27:076][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.07.29-11.06.27:078][  0]LogSlate: Using FreeType 2.6.0
+[2019.07.29-11.06.27:080][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.07.29-11.06.27:331][  0]LogAssetRegistry: FAssetRegistry took 0.0451 seconds to start up
+[2019.07.29-11.06.27:985][  0]LogInit: Selected Device Profile: [Windows]
+[2019.07.29-11.06.28:634][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.07.29-11.06.28:634][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.07.29-11.06.28:634][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.07.29-11.06.28:634][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.07.29-11.06.28:634][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.07.29-11.06.28:652][  0]LogNetVersion: map1 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2917674512)
+[2019.07.29-11.06.29:429][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.058044 seconds
+[2019.07.29-11.06.29:439][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.07.29-11.06.29:439][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.07.29-11.06.29:439][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.07.29-11.06.33:267][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.07.29-11.06.33:304][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.07.29-11.06.33:824][  0]SourceControl: Source control is disabled
+[2019.07.29-11.06.33:824][  0]SourceControl: Source control is disabled
+[2019.07.29-11.06.33:890][  0]SourceControl: Source control is disabled
+[2019.07.29-11.06.33:914][  0]SourceControl: Source control is disabled
+[2019.07.29-11.06.34:955][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.07.29-11.06.35:513][  0]LogOcInput: OculusInput pre-init called
+[2019.07.29-11.06.38:037][  0]LogEngine: Initializing Engine...
+[2019.07.29-11.06.38:040][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.07.29-11.06.38:042][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.07.29-11.06.38:384][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.07.29-11.06.38:453][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.07.29-11.06.38:523][  0]LogInit: XAudio2 using '喇叭 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.29-11.06.38:645][  0]LogInit: FAudioDevice initialized.
+[2019.07.29-11.06.38:646][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.07.29-11.06.38:740][  0]LogDerivedDataCache: Saved boot cache 0.09s 71MB C:/Users/v8386/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.07.29-11.06.38:740][  0]LogInit: Texture streaming: Enabled
+[2019.07.29-11.06.38:875][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.07.29-11.06.38:981][  0]LogInit: Transaction tracking system initialized
+[2019.07.29-11.06.39:187][  0]BlueprintLog: New page: Editor Load
+[2019.07.29-11.06.40:068][  0]LocalizationService: Localization service is disabled
+[2019.07.29-11.06.41:064][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.07.29-11.06.41:065][  0]LogCook: Display: Mobile HDR setting 1
+[2019.07.29-11.06.41:182][  0]LogFileCache: Scanning file cache for directory 'D:/MAP/map1/Content/' took 0.03s
+[2019.07.29-11.06.42:383][  0]SourceControl: Source control is disabled
+[2019.07.29-11.06.42:384][  0]Cmd: MAP LOAD FILE="../../../../../MAP/map1/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.07.29-11.06.42:384][  0]LightingResults: New page: Lighting Build
+[2019.07.29-11.06.42:393][  0]MapCheck: New page: Map Check
+[2019.07.29-11.06.42:393][  0]LightingResults: New page: Lighting Build
+[2019.07.29-11.06.42:437][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2019.07.29-11.06.42:640][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.07.29-11.06.42:643][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.07.29-11.06.42:689][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2019.07.29-11.06.42:689][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.07.29-11.06.42:690][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.136ms to complete.
+[2019.07.29-11.06.42:690][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.306
+[2019.07.29-11.06.42:913][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-11.06.42:926][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-11.06.42:952][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-11.06.42:966][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-11.06.43:014][  0]LogCollectionManager: Loaded 0 collections in 0.009350 seconds
+[2019.07.29-11.06.43:040][  0]LogFileCache: Scanning file cache for directory 'D:/MAP/map1/Saved/Collections/' took 0.01s
+[2019.07.29-11.06.43:040][  0]LogFileCache: Scanning file cache for directory 'D:/MAP/map1/Content/Developers/v8386/Collections/' took 0.00s
+[2019.07.29-11.06.43:040][  0]LogFileCache: Scanning file cache for directory 'D:/MAP/map1/Content/Collections/' took 0.00s
+[2019.07.29-11.06.43:040][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.07.29-11.06.43:060][  0]LogContentBrowser: Native class hierarchy populated in 0.0188 seconds. Added 2732 classes and 659 folders.
+[2019.07.29-11.06.43:082][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.07.29-11.06.43:088][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.29-11.06.43:090][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.29-11.06.43:091][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.29-11.06.43:092][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.29-11.06.43:094][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.29-11.06.43:095][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.29-11.06.43:097][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.29-11.06.43:098][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.29-11.06.43:100][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.29-11.06.43:102][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.29-11.06.43:104][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.29-11.06.43:106][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.29-11.06.43:108][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.29-11.06.43:110][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.29-11.06.43:112][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.29-11.06.43:114][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.29-11.06.43:116][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.29-11.06.43:117][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.29-11.06.43:118][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.29-11.06.43:120][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.29-11.06.43:121][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.29-11.06.43:122][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.29-11.06.43:124][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.29-11.06.43:125][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.29-11.06.43:126][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.29-11.06.43:128][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.29-11.06.43:365][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.07.29-11.06.43:410][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2019.07.29-11.06.43:435][  0]LogSlate: Took 0.000568 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.07.29-11.06.43:438][  0]LogSlate: Took 0.000541 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.07.29-11.06.43:446][  0]LogSlate: Took 0.000508 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.07.29-11.06.43:558][  0]LogRenderer: Reallocating scene render targets to support 1140x564 Format 10 NumSamples 1 (Frame:1).
+[2019.07.29-11.06.43:770][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.07.29-11.06.43:770][  0]LogLoad: (Engine Initialization) Total time: 32.36 seconds
+[2019.07.29-11.06.43:770][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.07.29-11.06.43:825][  0]LogAssetRegistry: Asset discovery search completed in 16.5161 seconds
+[2019.07.29-11.06.43:828][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.07.29-11.06.43:828][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000093 seconds (updated 0 objects)
+[2019.07.29-11.06.43:833][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.07.29-11.06.43:862][  0]LogSlate: Took 0.000443 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.07.29-11.06.43:871][  0]LogSlate: Took 0.002210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.07.29-11.07.06:151][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-11.07.13:726][946]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-11.07.43:819][ 32]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (大土)
+[2019.07.29-11.07.47:313][437]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-11.08.10:315][ 46]LogSlate: Took 0.000593 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.07.29-11.08.10:323][ 46]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/2DSideScroller/Sprites/door.door
+[2019.07.29-11.08.10:450][ 46]LogSlate: Took 0.000703 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.07.29-11.08.10:557][ 46]LogRenderer: Reallocating scene render targets to support 1528x916 Format 10 NumSamples 1 (Frame:1).
+[2019.07.29-11.08.32:087][397]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-11.09.31:901][813]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-11.09.31:978][819]LogSlate: Took 0.000535 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.07.29-11.09.39:063][394]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Sprites/door" FILE="../../../../../MAP/map1/Content/2DSideScroller/Sprites/door.uasset" SILENT=true
+[2019.07.29-11.09.39:083][394]LogSavePackage: Moving '../../../../../MAP/map1/Saved/doorDFEA165A4335373B227434A9E1074D98.tmp' to '../../../../../MAP/map1/Content/2DSideScroller/Sprites/door.uasset'
+[2019.07.29-11.09.58:269][901]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-11.09.58:345][906]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Sprites/door" FILE="../../../../../MAP/map1/Content/2DSideScroller/Sprites/door.uasset" SILENT=true
+[2019.07.29-11.09.58:370][906]LogSavePackage: Moving '../../../../../MAP/map1/Saved/doorF10AEA374A288586469E45956DCB6D45.tmp' to '../../../../../MAP/map1/Content/2DSideScroller/Sprites/door.uasset'
+[2019.07.29-11.10.00:013][ 35]LogSlate: Window 'door' being destroyed
+[2019.07.29-11.10.00:019][ 35]LogSlate: Window 'door' being destroyed
+[2019.07.29-11.10.19:203][167]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/2DSideScroller/Sprites/door2.door2
+[2019.07.29-11.11.06:172][822]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-11.11.10:306][153]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.29-11.11.15:368][531]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-11.11.15:498][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Sprites/door2" FILE="../../../../../MAP/map1/Content/2DSideScroller/Sprites/door2.uasset" SILENT=true
+[2019.07.29-11.11.15:520][538]LogSavePackage: Moving '../../../../../MAP/map1/Saved/door232CCBDF4458D432A46F02693DA87AF6B.tmp' to '../../../../../MAP/map1/Content/2DSideScroller/Sprites/door2.uasset'
+[2019.07.29-11.11.17:017][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Sprites/door2" FILE="../../../../../MAP/map1/Content/2DSideScroller/Sprites/door2.uasset" SILENT=true
+[2019.07.29-11.11.17:033][637]LogSavePackage: Moving '../../../../../MAP/map1/Saved/door27625F7BD48497B98B387379E101E52DD.tmp' to '../../../../../MAP/map1/Content/2DSideScroller/Sprites/door2.uasset'
+[2019.07.29-11.11.18:368][728]LogSlate: Window 'door2' being destroyed
+[2019.07.29-11.11.18:375][728]LogSlate: Window 'door2' being destroyed
+[2019.07.29-11.11.30:581][ 79]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/2DSideScroller/Sprites/door3.door3
+[2019.07.29-11.11.40:035][739]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-11.12.06:877][826]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-11.12.06:938][832]LogSlate: Window 'door3' being destroyed
+[2019.07.29-11.12.06:945][832]LogSlate: Window 'door3' being destroyed
+[2019.07.29-11.12.09:848][141]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2019.07.29-11.12.11:218][141]LogSlate: Window 'Delete Assets' being destroyed
+[2019.07.29-11.12.11:316][141]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2019.07.29-11.12.12:493][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.07.29-11.12.13:325][260]LogSlate: Window 'Delete Assets' being destroyed
+[2019.07.29-11.12.13:411][260]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2019.07.29-11.12.13:454][260]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.07.29-11.12.13:492][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2019.07.29-11.12.14:516][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.07.29-11.12.15:201][369]LogSlate: Window 'Delete Assets' being destroyed
+[2019.07.29-11.12.15:291][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2019.07.29-11.12.15:335][369]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2019.07.29-11.12.15:371][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2019.07.29-11.12.36:950][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Sprites/hous" FILE="../../../../../MAP/map1/Content/2DSideScroller/Sprites/hous.uasset" SILENT=true
+[2019.07.29-11.12.36:963][769]LogSavePackage: Moving '../../../../../MAP/map1/Saved/hous04E4CEAF48D9D569B8DC8D97A7E93A6C.tmp' to '../../../../../MAP/map1/Content/2DSideScroller/Sprites/hous.uasset'
+[2019.07.29-11.12.37:108][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2019.07.29-11.12.37:152][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2019.07.29-11.12.37:191][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.07.29-11.12.39:782][ 70]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/2DSideScroller/Sprites/hous.hous
+[2019.07.29-11.13.02:155][610]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-11.13.02:246][619]LogSlate: Window 'hous' being destroyed
+[2019.07.29-11.13.02:253][619]LogSlate: Window 'hous' being destroyed
+[2019.07.29-11.14.38:131][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Sprites/ComponentsH" FILE="../../../../../MAP/map1/Content/2DSideScroller/Sprites/ComponentsH.uasset" SILENT=true
+[2019.07.29-11.14.38:144][250]LogSavePackage: Moving '../../../../../MAP/map1/Saved/ComponentsH0C8BCE664939A39DEA1E349769FE9EE3.tmp' to '../../../../../MAP/map1/Content/2DSideScroller/Sprites/ComponentsH.uasset'
+[2019.07.29-11.14.38:299][250]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2019.07.29-11.14.38:336][250]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2019.07.29-11.14.38:365][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.07.29-11.14.49:623][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Sprites/H1" FILE="../../../../../MAP/map1/Content/2DSideScroller/Sprites/H1.uasset" SILENT=true
+[2019.07.29-11.14.49:637][579]LogSavePackage: Moving '../../../../../MAP/map1/Saved/H1CE5C014C473D271BEF66AC8A33F9A509.tmp' to '../../../../../MAP/map1/Content/2DSideScroller/Sprites/H1.uasset'
+[2019.07.29-11.14.49:743][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2019.07.29-11.14.49:777][579]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2019.07.29-11.14.49:807][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2019.07.29-11.15.50:610][405]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-11.15.58:300][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Sprites/H2" FILE="../../../../../MAP/map1/Content/2DSideScroller/Sprites/H2.uasset" SILENT=true
+[2019.07.29-11.15.58:309][311]LogSavePackage: Moving '../../../../../MAP/map1/Saved/H203AA585A44BE8B4471C37C9EEC675321.tmp' to '../../../../../MAP/map1/Content/2DSideScroller/Sprites/H2.uasset'
+[2019.07.29-11.15.58:424][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.07.29-11.15.58:464][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2019.07.29-11.15.58:495][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.07.29-11.16.44:208][858]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2019.07.29-11.16.44:361][858]LogSavePackage: Moving '../../../../../MAP/map1/Saved/2DSideScrollerExampleMap_Auto1ACBABCFD43E85186ACDF8780C31A4916.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto1.umap'
+[2019.07.29-11.16.44:364][858]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.190
+[2019.07.29-11.16.44:364][858]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.190
+[2019.07.29-11.16.44:366][858]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/H3] ([1] browsable assets)...
+[2019.07.29-11.16.44:377][858]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Sprites/H3.H3]
+[2019.07.29-11.16.44:377][858]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/H3]
+[2019.07.29-11.16.44:377][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Sprites/H3" FILE="../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Sprites/H3_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.07.29-11.16.44:390][858]LogSavePackage: Moving '../../../../../MAP/map1/Saved/H3_Auto1BEA1585D4EFAD2A80C128F8F5F092382.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Sprites/H3_Auto1.uasset'
+[2019.07.29-11.16.44:391][858]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/H4] ([1] browsable assets)...
+[2019.07.29-11.16.44:409][858]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Sprites/H4.H4]
+[2019.07.29-11.16.44:409][858]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/H4]
+[2019.07.29-11.16.44:409][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Sprites/H4" FILE="../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Sprites/H4_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.07.29-11.16.44:418][858]LogSavePackage: Moving '../../../../../MAP/map1/Saved/H4_Auto1D8CF67EB450870E1AAB165B853A8661E.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Sprites/H4_Auto1.uasset'
+[2019.07.29-11.16.44:419][858]LogFileHelpers: Auto-saving content packages took 0.055
+[2019.07.29-11.19.02:406][654]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Sprites/H13" FILE="../../../../../MAP/map1/Content/2DSideScroller/Sprites/H13.uasset" SILENT=true
+[2019.07.29-11.19.02:416][654]LogSavePackage: Moving '../../../../../MAP/map1/Saved/H13E0ECFADD450B9204100BE9B8F6667BDF.tmp' to '../../../../../MAP/map1/Content/2DSideScroller/Sprites/H13.uasset'
+[2019.07.29-11.19.02:551][654]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2019.07.29-11.19.02:591][654]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2019.07.29-11.19.02:626][654]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2019.07.29-11.19.15:821][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Sprites/H" FILE="../../../../../MAP/map1/Content/2DSideScroller/Sprites/H.uasset" SILENT=true
+[2019.07.29-11.19.15:830][181]LogSavePackage: Moving '../../../../../MAP/map1/Saved/H8F185AE148507284E92F7C8E7CAF072B.tmp' to '../../../../../MAP/map1/Content/2DSideScroller/Sprites/H.uasset'
+[2019.07.29-11.19.15:974][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2019.07.29-11.19.16:014][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2019.07.29-11.19.16:052][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.07.29-11.19.22:795][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Sprites/H14" FILE="../../../../../MAP/map1/Content/2DSideScroller/Sprites/H14.uasset" SILENT=true
+[2019.07.29-11.19.22:805][965]LogSavePackage: Moving '../../../../../MAP/map1/Saved/H149B6034A148168F0DF033A5B50E668865.tmp' to '../../../../../MAP/map1/Content/2DSideScroller/Sprites/H14.uasset'
+[2019.07.29-11.19.22:948][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2019.07.29-11.19.22:992][965]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2019.07.29-11.19.23:029][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2019.07.29-11.19.23:785][ 50]LogLinker: Warning: Can't find file '/Game/2DSideScroller/Sprites/H'
+[2019.07.29-11.19.23:786][ 50]LogLinker: Warning: Can't find file '/Game/2DSideScroller/Sprites/H'
+[2019.07.29-11.19.23:786][ 50]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/2DSideScroller/Sprites/H.H'
+[2019.07.29-11.19.36:483][554]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/2DSideScroller/Sprites/H1.H1
+[2019.07.29-11.19.40:677][911]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-11.19.40:747][918]LogSlate: Window 'H1' being destroyed
+[2019.07.29-11.19.40:754][918]LogSlate: Window 'H1' being destroyed
+[2019.07.29-11.20.03:598][565]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Sprites/H15" FILE="../../../../../MAP/map1/Content/2DSideScroller/Sprites/H15.uasset" SILENT=true
+[2019.07.29-11.20.03:607][565]LogSavePackage: Moving '../../../../../MAP/map1/Saved/H15712B63B848E4FD4FFBAB688DFCA9FD2F.tmp' to '../../../../../MAP/map1/Content/2DSideScroller/Sprites/H15.uasset'
+[2019.07.29-11.20.03:745][565]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2019.07.29-11.20.03:785][565]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.07.29-11.20.03:817][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.07.29-11.23.12:456][555]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2019.07.29-11.23.16:603][555]LogSlate: Window 'Delete Assets' being destroyed
+[2019.07.29-11.23.16:821][555]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2019.07.29-11.23.16:865][555]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2019.07.29-11.23.16:912][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.07.29-11.23.16:954][555]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2019.07.29-11.23.17:002][555]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2019.07.29-11.23.17:044][555]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2019.07.29-11.24.40:317][956]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/2DSideScroller/Sprites/H1.H1
+[2019.07.29-11.24.43:467][205]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-11.24.43:538][213]LogSlate: Window 'H1' being destroyed
+[2019.07.29-11.24.43:544][213]LogSlate: Window 'H1' being destroyed
+[2019.07.29-11.24.53:216][311]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2019.07.29-11.24.54:295][311]LogSlate: Window 'Delete Assets' being destroyed
+[2019.07.29-11.24.54:369][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2019.07.29-11.26.09:832][324]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(685)].
+[2019.07.29-11.26.18:370][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2019.07.29-11.26.19:923][300]LogSlate: Window 'Delete Assets' being destroyed
+[2019.07.29-11.26.19:928][300]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/2DSideScroller/Sprites/H1.H1
+[2019.07.29-11.26.21:204][300]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2019.07.29-11.26.21:242][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2019.07.29-11.26.21:275][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.07.29-11.26.23:442][555]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/2DSideScroller/Sprites/H.H
+[2019.07.29-11.26.25:675][756]LogSlate: Window 'H' being destroyed
+[2019.07.29-11.26.25:685][756]LogSlate: Window 'H' being destroyed
+[2019.07.29-11.26.29:017][138]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2019.07.29-11.26.30:354][138]LogSlate: Window 'Delete Assets' being destroyed
+[2019.07.29-11.26.30:428][138]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2019.07.29-11.26.38:694][ 79]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/2DSideScroller/Sprites/h.h
+[2019.07.29-11.26.39:822][162]LogSlate: Window 'h' being destroyed
+[2019.07.29-11.26.39:828][162]LogSlate: Window 'h' being destroyed
+[2019.07.29-11.27.17:883][440]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/2DSideScroller/Textures/房子1.房子1
+[2019.07.29-11.27.17:924][440]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.07.29-11.27.19:083][546]LogSlate: Window '房子1' being destroyed
+[2019.07.29-11.27.19:092][546]LogSlate: Window '房子1' being destroyed
+[2019.07.29-11.28.13:460][668]LogSlate: Window 'Extract sprites' being destroyed
+[2019.07.29-11.28.16:914][983]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2019.07.29-11.28.17:057][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/2DSideScrollerExampleMap_Auto2217D65774033027738C642905A4465AB.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto2.umap'
+[2019.07.29-11.28.17:060][983]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.185
+[2019.07.29-11.28.17:060][983]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.185
+[2019.07.29-11.28.17:062][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/h] ([1] browsable assets)...
+[2019.07.29-11.28.17:078][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Sprites/h.h]
+[2019.07.29-11.28.17:078][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/h]
+[2019.07.29-11.28.17:078][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Sprites/h" FILE="../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Sprites/h_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.07.29-11.28.17:089][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/h_Auto297B49869482A5A21A6C54985BEF32FB6.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Sprites/h_Auto2.uasset'
+[2019.07.29-11.28.17:092][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_0] ([1] browsable assets)...
+[2019.07.29-11.28.17:106][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_0.房子1_Sprite_0]
+[2019.07.29-11.28.17:106][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_0]
+[2019.07.29-11.28.17:106][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Textures/房子1_Sprite_0" FILE="../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_0_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.07.29-11.28.17:151][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_0_Auto2B1A449E0408F74AF70F4A79CA5F0BBDE.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_0_Auto2.uasset'
+[2019.07.29-11.28.17:153][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_1] ([1] browsable assets)...
+[2019.07.29-11.28.17:168][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_1.房子1_Sprite_1]
+[2019.07.29-11.28.17:168][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_1]
+[2019.07.29-11.28.17:168][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Textures/房子1_Sprite_1" FILE="../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_1_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.07.29-11.28.17:230][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_1_Auto2AE501AA54580CAF9B27CEEA32B63D53C.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_1_Auto2.uasset'
+[2019.07.29-11.28.17:231][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_2] ([1] browsable assets)...
+[2019.07.29-11.28.17:243][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_2.房子1_Sprite_2]
+[2019.07.29-11.28.17:243][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_2]
+[2019.07.29-11.28.17:243][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Textures/房子1_Sprite_2" FILE="../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_2_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.07.29-11.28.17:254][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_2_Auto2351477EA4B6FBAD5EF3ADC8B1EAA2415.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_2_Auto2.uasset'
+[2019.07.29-11.28.17:256][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_3] ([1] browsable assets)...
+[2019.07.29-11.28.17:272][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_3.房子1_Sprite_3]
+[2019.07.29-11.28.17:272][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_3]
+[2019.07.29-11.28.17:273][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Textures/房子1_Sprite_3" FILE="../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_3_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.07.29-11.28.17:284][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_3_Auto24615ACFC451195D479BADCBE40D6BD8A.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_3_Auto2.uasset'
+[2019.07.29-11.28.17:285][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_4] ([1] browsable assets)...
+[2019.07.29-11.28.17:296][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_4.房子1_Sprite_4]
+[2019.07.29-11.28.17:296][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_4]
+[2019.07.29-11.28.17:296][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Textures/房子1_Sprite_4" FILE="../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_4_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.07.29-11.28.17:309][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_4_Auto24421E08040014ECBD020F5B11820CCCF.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_4_Auto2.uasset'
+[2019.07.29-11.28.17:310][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_5] ([1] browsable assets)...
+[2019.07.29-11.28.17:322][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_5.房子1_Sprite_5]
+[2019.07.29-11.28.17:322][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_5]
+[2019.07.29-11.28.17:322][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Textures/房子1_Sprite_5" FILE="../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_5_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.07.29-11.28.17:333][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_5_Auto2ECE742C8480E5FB385F68E8AFBE17B9A.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_5_Auto2.uasset'
+[2019.07.29-11.28.17:335][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_6] ([1] browsable assets)...
+[2019.07.29-11.28.17:351][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_6.房子1_Sprite_6]
+[2019.07.29-11.28.17:351][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_6]
+[2019.07.29-11.28.17:351][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Textures/房子1_Sprite_6" FILE="../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_6_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.07.29-11.28.17:363][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_6_Auto2F0E18598413407D1C52EE1B7D76DFC58.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_6_Auto2.uasset'
+[2019.07.29-11.28.17:365][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_7] ([1] browsable assets)...
+[2019.07.29-11.28.17:379][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_7.房子1_Sprite_7]
+[2019.07.29-11.28.17:379][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_7]
+[2019.07.29-11.28.17:379][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Textures/房子1_Sprite_7" FILE="../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_7_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.07.29-11.28.17:408][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_7_Auto24043903F4A27C6821DE7C58702B8E87E.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_7_Auto2.uasset'
+[2019.07.29-11.28.17:410][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_8] ([1] browsable assets)...
+[2019.07.29-11.28.17:422][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_8.房子1_Sprite_8]
+[2019.07.29-11.28.17:422][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_8]
+[2019.07.29-11.28.17:422][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Textures/房子1_Sprite_8" FILE="../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_8_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.07.29-11.28.17:435][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_8_Auto24CE6B5B34BA63D38349DD999A7B969CA.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_8_Auto2.uasset'
+[2019.07.29-11.28.17:437][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_9] ([1] browsable assets)...
+[2019.07.29-11.28.17:448][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_9.房子1_Sprite_9]
+[2019.07.29-11.28.17:448][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_9]
+[2019.07.29-11.28.17:448][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Textures/房子1_Sprite_9" FILE="../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_9_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.07.29-11.28.17:481][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_9_Auto277D1D8BF449681ECF40D658B177BE608.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_9_Auto2.uasset'
+[2019.07.29-11.28.17:483][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_10] ([1] browsable assets)...
+[2019.07.29-11.28.17:503][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_10.房子1_Sprite_10]
+[2019.07.29-11.28.17:503][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_10]
+[2019.07.29-11.28.17:515][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_10_Auto2259369934FEC925640E8BC9AD6263863.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_10_Auto2.uasset'
+[2019.07.29-11.28.17:517][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_11] ([1] browsable assets)...
+[2019.07.29-11.28.17:531][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_11.房子1_Sprite_11]
+[2019.07.29-11.28.17:531][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_11]
+[2019.07.29-11.28.17:543][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_11_Auto27B7D00934F30438D321B49BD9F6269CF.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_11_Auto2.uasset'
+[2019.07.29-11.28.17:545][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_12] ([1] browsable assets)...
+[2019.07.29-11.28.17:558][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_12.房子1_Sprite_12]
+[2019.07.29-11.28.17:558][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_12]
+[2019.07.29-11.28.17:573][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_12_Auto2583C34B941535A1CC2D1F882FC593887.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_12_Auto2.uasset'
+[2019.07.29-11.28.17:574][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_13] ([1] browsable assets)...
+[2019.07.29-11.28.17:586][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_13.房子1_Sprite_13]
+[2019.07.29-11.28.17:586][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_13]
+[2019.07.29-11.28.17:597][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_13_Auto26A3620434B87BDB84A0DEC849209C86A.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_13_Auto2.uasset'
+[2019.07.29-11.28.17:599][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_14] ([1] browsable assets)...
+[2019.07.29-11.28.17:614][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_14.房子1_Sprite_14]
+[2019.07.29-11.28.17:614][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_14]
+[2019.07.29-11.28.17:627][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_14_Auto2E55FF6444FD02E778716F492695F8009.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_14_Auto2.uasset'
+[2019.07.29-11.28.17:629][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_15] ([1] browsable assets)...
+[2019.07.29-11.28.17:644][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_15.房子1_Sprite_15]
+[2019.07.29-11.28.17:644][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_15]
+[2019.07.29-11.28.17:655][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_15_Auto22BF3854C4B1C84F31943AA8C6B94279C.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_15_Auto2.uasset'
+[2019.07.29-11.28.17:656][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_16] ([1] browsable assets)...
+[2019.07.29-11.28.17:668][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_16.房子1_Sprite_16]
+[2019.07.29-11.28.17:668][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_16]
+[2019.07.29-11.28.17:681][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_16_Auto232B821404448411596E73D9C693970F9.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_16_Auto2.uasset'
+[2019.07.29-11.28.17:683][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_17] ([1] browsable assets)...
+[2019.07.29-11.28.17:695][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_17.房子1_Sprite_17]
+[2019.07.29-11.28.17:695][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_17]
+[2019.07.29-11.28.17:719][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_17_Auto21D93C36A4994196FD8E2E7B1A1702436.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_17_Auto2.uasset'
+[2019.07.29-11.28.17:721][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_18] ([1] browsable assets)...
+[2019.07.29-11.28.17:732][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_18.房子1_Sprite_18]
+[2019.07.29-11.28.17:732][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_18]
+[2019.07.29-11.28.17:743][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_18_Auto2F779B063478DAFFABA4918BBB75545B0.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_18_Auto2.uasset'
+[2019.07.29-11.28.17:745][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_19] ([1] browsable assets)...
+[2019.07.29-11.28.17:757][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_19.房子1_Sprite_19]
+[2019.07.29-11.28.17:757][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_19]
+[2019.07.29-11.28.17:767][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_19_Auto2C6565D3B4E4631316B7ED48619727642.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_19_Auto2.uasset'
+[2019.07.29-11.28.17:769][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_20] ([1] browsable assets)...
+[2019.07.29-11.28.17:786][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_20.房子1_Sprite_20]
+[2019.07.29-11.28.17:786][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_20]
+[2019.07.29-11.28.17:801][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_20_Auto28BE3AF7E4011038B90AA4E8302CB0348.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_20_Auto2.uasset'
+[2019.07.29-11.28.17:803][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_21] ([1] browsable assets)...
+[2019.07.29-11.28.17:818][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_21.房子1_Sprite_21]
+[2019.07.29-11.28.17:818][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_21]
+[2019.07.29-11.28.17:831][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_21_Auto28264166D49AC7CCE256C7FA043CBA7D0.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_21_Auto2.uasset'
+[2019.07.29-11.28.17:834][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_22] ([1] browsable assets)...
+[2019.07.29-11.28.17:847][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_22.房子1_Sprite_22]
+[2019.07.29-11.28.17:847][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_22]
+[2019.07.29-11.28.17:858][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_22_Auto219C6A5AF46F1A8531E140694C64CFBC5.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_22_Auto2.uasset'
+[2019.07.29-11.28.17:860][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_23] ([1] browsable assets)...
+[2019.07.29-11.28.17:871][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_23.房子1_Sprite_23]
+[2019.07.29-11.28.17:871][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_23]
+[2019.07.29-11.28.17:884][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_23_Auto2780DC26D4E48BC83D92BA08802A9AA50.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_23_Auto2.uasset'
+[2019.07.29-11.28.17:885][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_24] ([1] browsable assets)...
+[2019.07.29-11.28.17:897][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_24.房子1_Sprite_24]
+[2019.07.29-11.28.17:897][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_24]
+[2019.07.29-11.28.17:911][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_24_Auto2F0861ABC44283F96D3F29A93DFA87984.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_24_Auto2.uasset'
+[2019.07.29-11.28.17:913][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_25] ([1] browsable assets)...
+[2019.07.29-11.28.17:924][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_25.房子1_Sprite_25]
+[2019.07.29-11.28.17:924][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_25]
+[2019.07.29-11.28.17:961][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_25_Auto2FC0E9BD645A36B84BD106F9CD0DF9AF7.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_25_Auto2.uasset'
+[2019.07.29-11.28.17:963][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_26] ([1] browsable assets)...
+[2019.07.29-11.28.17:978][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_26.房子1_Sprite_26]
+[2019.07.29-11.28.17:978][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_26]
+[2019.07.29-11.28.17:988][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_26_Auto2CA3B2AA04DCB9397ACE6EFB8774575BD.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_26_Auto2.uasset'
+[2019.07.29-11.28.17:990][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_27] ([1] browsable assets)...
+[2019.07.29-11.28.18:002][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_27.房子1_Sprite_27]
+[2019.07.29-11.28.18:002][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_27]
+[2019.07.29-11.28.18:013][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_27_Auto254538DE7478808E9AF84AA8D0B9A0919.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_27_Auto2.uasset'
+[2019.07.29-11.28.18:015][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_28] ([1] browsable assets)...
+[2019.07.29-11.28.18:026][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_28.房子1_Sprite_28]
+[2019.07.29-11.28.18:026][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_28]
+[2019.07.29-11.28.18:037][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_28_Auto29B2CA4AE40DCC6D148FCFEAD7522222E.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_28_Auto2.uasset'
+[2019.07.29-11.28.18:038][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_29] ([1] browsable assets)...
+[2019.07.29-11.28.18:052][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_29.房子1_Sprite_29]
+[2019.07.29-11.28.18:052][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_29]
+[2019.07.29-11.28.18:062][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_29_Auto2DBCE14F74B049B9F9C19159689743232.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_29_Auto2.uasset'
+[2019.07.29-11.28.18:063][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_30] ([1] browsable assets)...
+[2019.07.29-11.28.18:076][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_30.房子1_Sprite_30]
+[2019.07.29-11.28.18:076][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_30]
+[2019.07.29-11.28.18:088][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_30_Auto2C7DF4C9B4B2C5EBAAC4F29921C7898E2.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_30_Auto2.uasset'
+[2019.07.29-11.28.18:090][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_31] ([1] browsable assets)...
+[2019.07.29-11.28.18:102][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_31.房子1_Sprite_31]
+[2019.07.29-11.28.18:102][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_31]
+[2019.07.29-11.28.18:114][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_31_Auto2CF21E7604C609841E3FA548A9ACB49FD.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_31_Auto2.uasset'
+[2019.07.29-11.28.18:115][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_32] ([1] browsable assets)...
+[2019.07.29-11.28.18:126][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_32.房子1_Sprite_32]
+[2019.07.29-11.28.18:126][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_32]
+[2019.07.29-11.28.18:142][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_32_Auto24BAFFD0C48784FC470E7E8AD7625EDB7.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_32_Auto2.uasset'
+[2019.07.29-11.28.18:143][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_33] ([1] browsable assets)...
+[2019.07.29-11.28.18:154][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_33.房子1_Sprite_33]
+[2019.07.29-11.28.18:154][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_33]
+[2019.07.29-11.28.18:166][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_33_Auto2958700AF4273CB6C8C0152AAC0EEA0C7.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_33_Auto2.uasset'
+[2019.07.29-11.28.18:168][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_34] ([1] browsable assets)...
+[2019.07.29-11.28.18:179][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_34.房子1_Sprite_34]
+[2019.07.29-11.28.18:179][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_34]
+[2019.07.29-11.28.18:205][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_34_Auto2709240F44517086120E793B1941E0C98.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_34_Auto2.uasset'
+[2019.07.29-11.28.18:207][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_35] ([1] browsable assets)...
+[2019.07.29-11.28.18:217][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_35.房子1_Sprite_35]
+[2019.07.29-11.28.18:217][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_35]
+[2019.07.29-11.28.18:231][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_35_Auto264700310408DA91FAE2FDF959B71D028.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_35_Auto2.uasset'
+[2019.07.29-11.28.18:233][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_36] ([1] browsable assets)...
+[2019.07.29-11.28.18:245][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_36.房子1_Sprite_36]
+[2019.07.29-11.28.18:245][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_36]
+[2019.07.29-11.28.18:258][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_36_Auto213277D634483B0B3B43559935726C69F.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_36_Auto2.uasset'
+[2019.07.29-11.28.18:261][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_37] ([1] browsable assets)...
+[2019.07.29-11.28.18:271][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_37.房子1_Sprite_37]
+[2019.07.29-11.28.18:271][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_37]
+[2019.07.29-11.28.18:281][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_37_Auto29B4E3CE54640E696EF586A8CC02E6CF6.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_37_Auto2.uasset'
+[2019.07.29-11.28.18:282][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_38] ([1] browsable assets)...
+[2019.07.29-11.28.18:293][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_38.房子1_Sprite_38]
+[2019.07.29-11.28.18:293][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_38]
+[2019.07.29-11.28.18:308][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_38_Auto29B08D3BA45734146287AE9BE6FB0538A.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_38_Auto2.uasset'
+[2019.07.29-11.28.18:310][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_39] ([1] browsable assets)...
+[2019.07.29-11.28.18:321][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_39.房子1_Sprite_39]
+[2019.07.29-11.28.18:321][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_39]
+[2019.07.29-11.28.18:335][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_39_Auto2496D1447463C471742DAF5BC8E0F4661.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_39_Auto2.uasset'
+[2019.07.29-11.28.18:338][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_40] ([1] browsable assets)...
+[2019.07.29-11.28.18:349][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_40.房子1_Sprite_40]
+[2019.07.29-11.28.18:349][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_40]
+[2019.07.29-11.28.18:361][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_40_Auto259CE2B94404C0269293702A8BB40F7EB.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_40_Auto2.uasset'
+[2019.07.29-11.28.18:363][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_41] ([1] browsable assets)...
+[2019.07.29-11.28.18:374][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_41.房子1_Sprite_41]
+[2019.07.29-11.28.18:374][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_41]
+[2019.07.29-11.28.18:386][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_41_Auto25419F7C54BCBD2DDCA69788BAAEEFB1B.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_41_Auto2.uasset'
+[2019.07.29-11.28.18:387][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_42] ([1] browsable assets)...
+[2019.07.29-11.28.18:403][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_42.房子1_Sprite_42]
+[2019.07.29-11.28.18:403][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_42]
+[2019.07.29-11.28.18:414][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_42_Auto20DFE080842A67822F7955C92BC645A79.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_42_Auto2.uasset'
+[2019.07.29-11.28.18:415][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_43] ([1] browsable assets)...
+[2019.07.29-11.28.18:431][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_43.房子1_Sprite_43]
+[2019.07.29-11.28.18:431][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_43]
+[2019.07.29-11.28.18:452][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_43_Auto26212A0374D6FE1AB0C9404B0CE54A138.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_43_Auto2.uasset'
+[2019.07.29-11.28.18:453][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_44] ([1] browsable assets)...
+[2019.07.29-11.28.18:467][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_44.房子1_Sprite_44]
+[2019.07.29-11.28.18:468][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_44]
+[2019.07.29-11.28.18:480][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_44_Auto2D70D4FE743A625BB4F3174837801E1E9.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_44_Auto2.uasset'
+[2019.07.29-11.28.18:482][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_45] ([1] browsable assets)...
+[2019.07.29-11.28.18:495][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_45.房子1_Sprite_45]
+[2019.07.29-11.28.18:495][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_45]
+[2019.07.29-11.28.18:507][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_45_Auto2091F31DF4DC032B86452AD95DA433374.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_45_Auto2.uasset'
+[2019.07.29-11.28.18:509][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_46] ([1] browsable assets)...
+[2019.07.29-11.28.18:520][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_46.房子1_Sprite_46]
+[2019.07.29-11.28.18:520][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_46]
+[2019.07.29-11.28.18:530][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_46_Auto2F9B91DC34A50150F703423BE06D0CDE6.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_46_Auto2.uasset'
+[2019.07.29-11.28.18:532][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_47] ([1] browsable assets)...
+[2019.07.29-11.28.18:547][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_47.房子1_Sprite_47]
+[2019.07.29-11.28.18:547][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_47]
+[2019.07.29-11.28.18:557][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_47_Auto2C7E5E5D74EA02C3EED7A46BE184C80E7.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_47_Auto2.uasset'
+[2019.07.29-11.28.18:558][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_48] ([1] browsable assets)...
+[2019.07.29-11.28.18:571][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_48.房子1_Sprite_48]
+[2019.07.29-11.28.18:571][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_48]
+[2019.07.29-11.28.18:598][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_48_Auto2A4EC79144C59B1D4B6388B9F0A6E56D0.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_48_Auto2.uasset'
+[2019.07.29-11.28.18:599][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_49] ([1] browsable assets)...
+[2019.07.29-11.28.18:610][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_49.房子1_Sprite_49]
+[2019.07.29-11.28.18:610][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_49]
+[2019.07.29-11.28.18:694][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_49_Auto24253DEDB484AFF3800D9EF8392D6780B.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_49_Auto2.uasset'
+[2019.07.29-11.28.18:696][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_50] ([1] browsable assets)...
+[2019.07.29-11.28.18:710][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_50.房子1_Sprite_50]
+[2019.07.29-11.28.18:710][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_50]
+[2019.07.29-11.28.18:722][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_50_Auto2C101956C4889893474A1EBBD04D38F4E.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_50_Auto2.uasset'
+[2019.07.29-11.28.18:724][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_51] ([1] browsable assets)...
+[2019.07.29-11.28.18:735][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_51.房子1_Sprite_51]
+[2019.07.29-11.28.18:735][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_51]
+[2019.07.29-11.28.18:746][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_51_Auto28D1F802743D0F6531D970AA21A8DEA67.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_51_Auto2.uasset'
+[2019.07.29-11.28.18:747][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_52] ([1] browsable assets)...
+[2019.07.29-11.28.18:758][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_52.房子1_Sprite_52]
+[2019.07.29-11.28.18:758][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_52]
+[2019.07.29-11.28.18:767][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_52_Auto273D657354DF3F70CEFD62881EB66A423.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_52_Auto2.uasset'
+[2019.07.29-11.28.18:769][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_53] ([1] browsable assets)...
+[2019.07.29-11.28.18:779][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_53.房子1_Sprite_53]
+[2019.07.29-11.28.18:779][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_53]
+[2019.07.29-11.28.18:788][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_53_Auto2ABBC657C424905336ED993AE4370AC3C.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_53_Auto2.uasset'
+[2019.07.29-11.28.18:790][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_54] ([1] browsable assets)...
+[2019.07.29-11.28.18:800][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_54.房子1_Sprite_54]
+[2019.07.29-11.28.18:800][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_54]
+[2019.07.29-11.28.18:810][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_54_Auto243419B6B435F64B4F3F52288601137D4.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_54_Auto2.uasset'
+[2019.07.29-11.28.18:812][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_55] ([1] browsable assets)...
+[2019.07.29-11.28.18:828][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_55.房子1_Sprite_55]
+[2019.07.29-11.28.18:828][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_55]
+[2019.07.29-11.28.18:841][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_55_Auto2A4EB88954F9DC10503185DAA76D61D95.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_55_Auto2.uasset'
+[2019.07.29-11.28.18:842][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_56] ([1] browsable assets)...
+[2019.07.29-11.28.18:854][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_56.房子1_Sprite_56]
+[2019.07.29-11.28.18:854][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_56]
+[2019.07.29-11.28.18:863][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_56_Auto26F12ED3B4F95470D704FF9BBFDD49309.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_56_Auto2.uasset'
+[2019.07.29-11.28.18:865][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_57] ([1] browsable assets)...
+[2019.07.29-11.28.18:875][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_57.房子1_Sprite_57]
+[2019.07.29-11.28.18:875][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_57]
+[2019.07.29-11.28.18:887][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_57_Auto21D7E95FA4B92BBD699638D98C0BE61F5.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_57_Auto2.uasset'
+[2019.07.29-11.28.18:888][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_58] ([1] browsable assets)...
+[2019.07.29-11.28.18:898][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_58.房子1_Sprite_58]
+[2019.07.29-11.28.18:898][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_58]
+[2019.07.29-11.28.18:931][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_58_Auto22C13DDF1469CE1BDE4204C9F8F33CA05.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_58_Auto2.uasset'
+[2019.07.29-11.28.18:932][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_59] ([1] browsable assets)...
+[2019.07.29-11.28.18:943][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_59.房子1_Sprite_59]
+[2019.07.29-11.28.18:943][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_59]
+[2019.07.29-11.28.18:955][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_59_Auto2687EC45D4B50BB7B45A8E2AE9EF47682.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_59_Auto2.uasset'
+[2019.07.29-11.28.18:957][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_60] ([1] browsable assets)...
+[2019.07.29-11.28.18:967][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_60.房子1_Sprite_60]
+[2019.07.29-11.28.18:967][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_60]
+[2019.07.29-11.28.18:982][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_60_Auto2CB700D89466DEC4E51C5D29492100F62.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_60_Auto2.uasset'
+[2019.07.29-11.28.18:984][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_61] ([1] browsable assets)...
+[2019.07.29-11.28.19:003][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_61.房子1_Sprite_61]
+[2019.07.29-11.28.19:003][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_61]
+[2019.07.29-11.28.19:016][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_61_Auto20D3BB1DE467DFCACB460A0905957E617.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_61_Auto2.uasset'
+[2019.07.29-11.28.19:017][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_62] ([1] browsable assets)...
+[2019.07.29-11.28.19:028][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_62.房子1_Sprite_62]
+[2019.07.29-11.28.19:028][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_62]
+[2019.07.29-11.28.19:041][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_62_Auto2059A556A4B7FED2FBA47CAB4244A840C.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_62_Auto2.uasset'
+[2019.07.29-11.28.19:043][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1_Sprite_63] ([1] browsable assets)...
+[2019.07.29-11.28.19:054][983]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_63.房子1_Sprite_63]
+[2019.07.29-11.28.19:054][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1_Sprite_63]
+[2019.07.29-11.28.19:067][983]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_63_Auto2AB7F57AC4AA0DBAA4B8B96A872756260.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Sprite_63_Auto2.uasset'
+[2019.07.29-11.28.19:068][983]LogFileHelpers: Auto-saving content packages took 2.006
+[2019.07.29-11.28.45:879][761]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_8.房子1_Sprite_8
+[2019.07.29-11.28.48:054][910]LogSlate: Window '房子1_Sprite_8' being destroyed
+[2019.07.29-11.28.48:061][910]LogSlate: Window '房子1_Sprite_8' being destroyed
+[2019.07.29-11.29.03:329][447]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2019.07.29-11.29.07:476][447]LogSlate: Window 'Delete Assets' being destroyed
+[2019.07.29-11.29.07:679][447]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2019.07.29-11.29.23:854][175]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_33.房子1_Sprite_33
+[2019.07.29-11.29.24:942][246]LogSlate: Window '房子1_Sprite_33' being destroyed
+[2019.07.29-11.29.24:947][246]LogSlate: Window '房子1_Sprite_33' being destroyed
+[2019.07.29-11.29.27:490][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2019.07.29-11.29.28:757][516]LogSlate: Window 'Delete Assets' being destroyed
+[2019.07.29-11.29.28:848][516]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2019.07.29-11.29.33:136][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.07.29-11.29.34:721][973]LogSlate: Window 'Delete Assets' being destroyed
+[2019.07.29-11.29.34:807][973]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2019.07.29-11.29.40:761][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2019.07.29-11.29.42:597][611]LogSlate: Window 'Delete Assets' being destroyed
+[2019.07.29-11.29.42:724][611]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2019.07.29-11.29.47:658][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2019.07.29-11.29.49:293][155]LogSlate: Window 'Delete Assets' being destroyed
+[2019.07.29-11.29.49:393][155]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2019.07.29-11.29.52:075][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.07.29-11.29.53:033][455]LogSlate: Window 'Delete Assets' being destroyed
+[2019.07.29-11.29.53:113][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.07.29-11.29.55:430][708]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.07.29-11.29.56:376][708]LogSlate: Window 'Delete Assets' being destroyed
+[2019.07.29-11.29.56:460][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2019.07.29-11.29.58:266][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.07.29-11.29.59:262][903]LogSlate: Window 'Delete Assets' being destroyed
+[2019.07.29-11.29.59:348][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2019.07.29-11.30.02:345][246]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_31.房子1_Sprite_31
+[2019.07.29-11.30.04:727][429]LogSlate: Window '房子1_Sprite_31' being destroyed
+[2019.07.29-11.30.04:734][429]LogSlate: Window '房子1_Sprite_31' being destroyed
+[2019.07.29-11.30.05:678][530]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_32.房子1_Sprite_32
+[2019.07.29-11.30.06:781][606]LogSlate: Window '房子1_Sprite_32' being destroyed
+[2019.07.29-11.30.06:789][606]LogSlate: Window '房子1_Sprite_32' being destroyed
+[2019.07.29-11.30.08:938][836]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/2DSideScroller/Textures/房子1.房子1
+[2019.07.29-11.30.23:124][119]LogSlate: Window '房子1' being destroyed
+[2019.07.29-11.30.23:130][119]LogSlate: Window '房子1' being destroyed
+[2019.07.29-11.30.25:612][392]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_59.房子1_Sprite_59
+[2019.07.29-11.30.27:492][539]LogSlate: Window '房子1_Sprite_59' being destroyed
+[2019.07.29-11.30.27:500][539]LogSlate: Window '房子1_Sprite_59' being destroyed
+[2019.07.29-11.30.29:490][753]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/2DSideScroller/Textures/房子1.房子1
+[2019.07.29-11.30.34:450][125]LogSlate: Window '房子1' being destroyed
+[2019.07.29-11.30.34:460][125]LogSlate: Window '房子1' being destroyed
+[2019.07.29-11.30.36:359][336]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/2DSideScroller/Textures/房子1_Sprite_63.房子1_Sprite_63
+[2019.07.29-11.30.37:473][410]LogSlate: Window '房子1_Sprite_63' being destroyed
+[2019.07.29-11.30.37:479][410]LogSlate: Window '房子1_Sprite_63' being destroyed
+[2019.07.29-11.31.26:427][952]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.07.29-11.31.30:126][952]LogSlate: Window 'Delete Assets' being destroyed
+[2019.07.29-11.31.30:348][952]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2019.07.29-11.31.48:577][939]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/2DSideScroller/Sprites/房子1_Sprite_0.房子1_Sprite_0
+[2019.07.29-11.31.55:728][495]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-11.31.55:795][501]LogSlate: Warning: Legacy localized fallback font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' was requested. Font: '/Engine/EngineFonts/Faces/RobotoRegular.RobotoRegular', Character: '房 (U+623f)'
+Legacy localized fallback fonts were deprecated in 4.22 and will be removed in a future version!
+Please update your composite fonts to use localized sub-font families: https://docs.unrealengine.com/en-US/Engine/UMG/UserGuide/Fonts/Overview
+[2019.07.29-11.32.00:580][843]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-11.32.05:775][255]LogSlate: Window '房子1_Sprite_0' being destroyed
+[2019.07.29-11.32.05:782][255]LogSlate: Window '房子1_Sprite_0' being destroyed
+[2019.07.29-11.32.16:408][404]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/2DSideScroller/Sprites/房子1_Sprite_31.房子1_Sprite_31
+[2019.07.29-11.32.49:029][527]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-11.32.50:180][614]LogSlate: Window '房子1_Sprite_31' being destroyed
+[2019.07.29-11.32.50:186][614]LogSlate: Window '房子1_Sprite_31' being destroyed
+[2019.07.29-11.32.58:015][440]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/2DSideScroller/Sprites/房子1_Sprite_31.房子1_Sprite_31
+[2019.07.29-11.34.35:999][334]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-11.34.36:075][341]LogSlate: Window '房子1_Sprite_31' being destroyed
+[2019.07.29-11.34.36:081][341]LogSlate: Window '房子1_Sprite_31' being destroyed
+[2019.07.29-11.34.42:493][ 25]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/2DSideScroller/Sprites/房子1_Sprite_31.房子1_Sprite_31
+[2019.07.29-11.34.46:210][274]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-11.34.46:283][280]LogSlate: Window '房子1_Sprite_31' being destroyed
+[2019.07.29-11.34.46:290][280]LogSlate: Window '房子1_Sprite_31' being destroyed
+[2019.07.29-11.34.50:093][660]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/2DSideScroller/Sprites/房子1_Sprite_31.房子1_Sprite_31
+[2019.07.29-11.34.53:773][909]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-11.35.02:467][512]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-11.35.02:533][518]LogSlate: Window '房子1_Sprite_31' being destroyed
+[2019.07.29-11.35.02:542][518]LogSlate: Window '房子1_Sprite_31' being destroyed
+[2019.07.29-11.35.06:993][977]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/2DSideScroller/Sprites/房子1_Sprite_57.房子1_Sprite_57
+[2019.07.29-11.36.11:697][277]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-11.36.11:779][283]LogSlate: Window '房子1_Sprite_59' being destroyed
+[2019.07.29-11.36.11:786][283]LogSlate: Window '房子1_Sprite_59' being destroyed
+[2019.07.29-11.36.15:191][617]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2019.07.29-11.36.16:246][617]LogSlate: Window 'Delete Assets' being destroyed
+[2019.07.29-11.36.16:338][617]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2019.07.29-11.36.32:168][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2019.07.29-11.36.33:846][334]LogSlate: Window 'Delete Assets' being destroyed
+[2019.07.29-11.36.33:966][334]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2019.07.29-11.37.29:675][894]LogEditorFactories: Performing atomic reimport of [D:/MAP/房子1.png]
+[2019.07.29-11.37.29:678][894]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/MAP/房子1.png)
+[2019.07.29-11.37.29:744][894]LogTexture: Display: Building textures: 房子1 (AutoDXT, 1600X1200)
+[2019.07.29-11.37.32:380][894]LogEditorFactories: -- imported successfully
+[2019.07.29-11.37.37:180][406]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/2DSideScroller/Textures/房子1.房子1
+[2019.07.29-11.37.39:994][541]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-11.37.47:308][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-11.37.47:407][ 64]LogSlate: Window '房子1' being destroyed
+[2019.07.29-11.37.47:416][ 64]LogSlate: Window '房子1' being destroyed
+[2019.07.29-11.38.37:186][507]LogEditorFactories: Performing atomic reimport of [D:/MAP/房子1.png]
+[2019.07.29-11.38.37:189][507]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/MAP/房子1.png)
+[2019.07.29-11.38.37:244][507]LogTexture: Display: Building textures: 房子1 (AutoDXT, 1600X1200)
+[2019.07.29-11.38.39:358][507]LogEditorFactories: -- imported successfully
+[2019.07.29-11.38.39:454][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.07.29-11.38.39:454][508]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.037
+[2019.07.29-11.38.39:456][508]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/房子1] ([1] browsable assets)...
+[2019.07.29-11.38.39:468][508]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScroller/Textures/房子1.房子1]
+[2019.07.29-11.38.39:468][508]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/房子1]
+[2019.07.29-11.38.39:468][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Textures/房子1" FILE="../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.07.29-11.38.39:493][508]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Auto38FA83BB4499265920BC9C9AFF68F997F.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Textures/房子1_Auto3.uasset'
+[2019.07.29-11.38.39:495][508]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/房子1_Sprite_5] ([1] browsable assets)...
+[2019.07.29-11.38.39:507][508]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Sprites/房子1_Sprite_5.房子1_Sprite_5]
+[2019.07.29-11.38.39:507][508]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/房子1_Sprite_5]
+[2019.07.29-11.38.39:507][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Sprites/房子1_Sprite_5" FILE="../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Sprites/房子1_Sprite_5_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.07.29-11.38.39:518][508]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_5_Auto330F9824B475C1BB572D57BBB43D7E5EA.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Sprites/房子1_Sprite_5_Auto3.uasset'
+[2019.07.29-11.38.39:520][508]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/房子1_Sprite_36] ([1] browsable assets)...
+[2019.07.29-11.38.39:532][508]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Sprites/房子1_Sprite_36.房子1_Sprite_36]
+[2019.07.29-11.38.39:532][508]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/房子1_Sprite_36]
+[2019.07.29-11.38.39:532][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Sprites/房子1_Sprite_36" FILE="../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Sprites/房子1_Sprite_36_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.07.29-11.38.39:547][508]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_36_Auto303C295B4410EFC520A97138F4B3B576A.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Sprites/房子1_Sprite_36_Auto3.uasset'
+[2019.07.29-11.38.39:549][508]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/房子1_Sprite_32] ([1] browsable assets)...
+[2019.07.29-11.38.39:560][508]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Sprites/房子1_Sprite_32.房子1_Sprite_32]
+[2019.07.29-11.38.39:561][508]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/房子1_Sprite_32]
+[2019.07.29-11.38.39:561][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Sprites/房子1_Sprite_32" FILE="../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Sprites/房子1_Sprite_32_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.07.29-11.38.39:575][508]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_32_Auto39224FDE645B2CD551BF08992609D8A1A.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Sprites/房子1_Sprite_32_Auto3.uasset'
+[2019.07.29-11.38.39:576][508]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/房子1_Sprite_6] ([1] browsable assets)...
+[2019.07.29-11.38.39:587][508]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Sprites/房子1_Sprite_6.房子1_Sprite_6]
+[2019.07.29-11.38.39:587][508]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/房子1_Sprite_6]
+[2019.07.29-11.38.39:587][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Sprites/房子1_Sprite_6" FILE="../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Sprites/房子1_Sprite_6_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.07.29-11.38.39:599][508]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_6_Auto3A4012D1F449204F53D2BF49CFA6DE834.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Sprites/房子1_Sprite_6_Auto3.uasset'
+[2019.07.29-11.38.39:601][508]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/房子1_Sprite_48] ([1] browsable assets)...
+[2019.07.29-11.38.39:612][508]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Sprites/房子1_Sprite_48.房子1_Sprite_48]
+[2019.07.29-11.38.39:612][508]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/房子1_Sprite_48]
+[2019.07.29-11.38.39:612][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Sprites/房子1_Sprite_48" FILE="../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Sprites/房子1_Sprite_48_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.07.29-11.38.39:676][508]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_48_Auto3D47E9EAE48309DFF45DF659CAE913AF9.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Sprites/房子1_Sprite_48_Auto3.uasset'
+[2019.07.29-11.38.39:678][508]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/房子1_Sprite_39] ([1] browsable assets)...
+[2019.07.29-11.38.39:687][508]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Sprites/房子1_Sprite_39.房子1_Sprite_39]
+[2019.07.29-11.38.39:687][508]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/房子1_Sprite_39]
+[2019.07.29-11.38.39:687][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Sprites/房子1_Sprite_39" FILE="../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Sprites/房子1_Sprite_39_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.07.29-11.38.39:701][508]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_39_Auto37FD2515245428B513E8A5A930E65B52E.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Sprites/房子1_Sprite_39_Auto3.uasset'
+[2019.07.29-11.38.39:702][508]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/房子1_Sprite_55] ([1] browsable assets)...
+[2019.07.29-11.38.39:711][508]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Sprites/房子1_Sprite_55.房子1_Sprite_55]
+[2019.07.29-11.38.39:711][508]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/房子1_Sprite_55]
+[2019.07.29-11.38.39:711][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Sprites/房子1_Sprite_55" FILE="../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Sprites/房子1_Sprite_55_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.07.29-11.38.39:723][508]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_55_Auto372442D704DD84A4CEF05A9A713C69C4D.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Sprites/房子1_Sprite_55_Auto3.uasset'
+[2019.07.29-11.38.39:724][508]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/房子1_Sprite_50] ([1] browsable assets)...
+[2019.07.29-11.38.39:734][508]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Sprites/房子1_Sprite_50.房子1_Sprite_50]
+[2019.07.29-11.38.39:734][508]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/房子1_Sprite_50]
+[2019.07.29-11.38.39:734][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Sprites/房子1_Sprite_50" FILE="../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Sprites/房子1_Sprite_50_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.07.29-11.38.39:746][508]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_50_Auto36431322F4949F56D70087E9C057FCA11.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Sprites/房子1_Sprite_50_Auto3.uasset'
+[2019.07.29-11.38.39:748][508]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/房子1_Sprite_0] ([1] browsable assets)...
+[2019.07.29-11.38.39:757][508]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Sprites/房子1_Sprite_0.房子1_Sprite_0]
+[2019.07.29-11.38.39:757][508]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/房子1_Sprite_0]
+[2019.07.29-11.38.39:757][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Sprites/房子1_Sprite_0" FILE="../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Sprites/房子1_Sprite_0_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.07.29-11.38.39:766][508]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_0_Auto3EB087B8448B0E9568787EA963979E038.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Sprites/房子1_Sprite_0_Auto3.uasset'
+[2019.07.29-11.38.39:768][508]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/房子1_Sprite_1] ([1] browsable assets)...
+[2019.07.29-11.38.39:777][508]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Sprites/房子1_Sprite_1.房子1_Sprite_1]
+[2019.07.29-11.38.39:777][508]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/房子1_Sprite_1]
+[2019.07.29-11.38.39:777][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Sprites/房子1_Sprite_1" FILE="../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Sprites/房子1_Sprite_1_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.07.29-11.38.39:787][508]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_1_Auto3E1F85D1343D4A5623E6631928CE38D46.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Sprites/房子1_Sprite_1_Auto3.uasset'
+[2019.07.29-11.38.39:788][508]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/房子1_Sprite_2] ([1] browsable assets)...
+[2019.07.29-11.38.39:797][508]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Sprites/房子1_Sprite_2.房子1_Sprite_2]
+[2019.07.29-11.38.39:797][508]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/房子1_Sprite_2]
+[2019.07.29-11.38.39:797][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Sprites/房子1_Sprite_2" FILE="../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Sprites/房子1_Sprite_2_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.07.29-11.38.39:806][508]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_2_Auto3449AB180437C530F8651EF8AB0DF7968.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Sprites/房子1_Sprite_2_Auto3.uasset'
+[2019.07.29-11.38.39:808][508]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/房子1_Sprite_3] ([1] browsable assets)...
+[2019.07.29-11.38.39:818][508]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Sprites/房子1_Sprite_3.房子1_Sprite_3]
+[2019.07.29-11.38.39:818][508]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/房子1_Sprite_3]
+[2019.07.29-11.38.39:818][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Sprites/房子1_Sprite_3" FILE="../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Sprites/房子1_Sprite_3_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.07.29-11.38.39:829][508]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_3_Auto3B39E66C54E2C7F7A0ECA94ACF99418A8.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Sprites/房子1_Sprite_3_Auto3.uasset'
+[2019.07.29-11.38.39:830][508]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/房子1_Sprite_4] ([1] browsable assets)...
+[2019.07.29-11.38.39:842][508]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Sprites/房子1_Sprite_4.房子1_Sprite_4]
+[2019.07.29-11.38.39:842][508]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/房子1_Sprite_4]
+[2019.07.29-11.38.39:842][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Sprites/房子1_Sprite_4" FILE="../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Sprites/房子1_Sprite_4_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.07.29-11.38.39:851][508]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_4_Auto3F936EADE48AF79AA0175CDBCA3B6AE79.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Sprites/房子1_Sprite_4_Auto3.uasset'
+[2019.07.29-11.38.39:853][508]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/房子1_Sprite_7] ([1] browsable assets)...
+[2019.07.29-11.38.39:863][508]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Sprites/房子1_Sprite_7.房子1_Sprite_7]
+[2019.07.29-11.38.39:863][508]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/房子1_Sprite_7]
+[2019.07.29-11.38.39:863][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Sprites/房子1_Sprite_7" FILE="../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Sprites/房子1_Sprite_7_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.07.29-11.38.39:936][508]LogSavePackage: Moving '../../../../../MAP/map1/Saved/房子1_Sprite_7_Auto38D6EDBA84711619C1DC4A8B55ABF5220.tmp' to '../../../../../MAP/map1/Saved/Autosaves/Game/2DSideScroller/Sprites/房子1_Sprite_7_Auto3.uasset'
+[2019.07.29-11.38.39:937][508]LogFileHelpers: Auto-saving content packages took 0.481
+[2019.07.29-11.38.43:992][975]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/2DSideScroller/Textures/房子1.房子1
+[2019.07.29-11.38.48:287][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-11.38.54:041][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-11.38.54:133][ 57]LogSlate: Window '房子1' being destroyed
+[2019.07.29-11.38.54:140][ 57]LogSlate: Window '房子1' being destroyed
+[2019.07.29-11.38.56:431][319]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/2DSideScroller/Textures/房子1.房子1
+[2019.07.29-11.38.57:902][452]LogSlate: Window '房子1' being destroyed
+[2019.07.29-11.38.57:908][452]LogSlate: Window '房子1' being destroyed
+[2019.07.29-11.39.47:768][365]LogSlate: Window 'Extract sprites' being destroyed
+[2019.07.29-11.41.10:315][834]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (大土)
+[2019.07.29-11.41.14:946][274]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (大土)
+[2019.07.29-11.41.15:054][278]LogEditorViewport: Clicking on Component (LMB): PaperSpriteComponent (RenderComponent)
+[2019.07.29-11.41.23:300][ 89]Cmd: ACTOR SELECT ALL
+[2019.07.29-11.41.27:170][525]Cmd: TRANSACTION UNDO
+[2019.07.29-11.41.27:171][525]LogEditorTransaction: Undo Move Components
+[2019.07.29-11.41.27:877][589]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2019.07.29-11.41.33:502][174]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-11.41.39:339][757]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-11.41.50:861][930]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (大土)
+[2019.07.29-11.41.51:692][ 16]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (大土2)
+[2019.07.29-11.41.55:425][432]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (大土)
+[2019.07.29-11.41.56:893][587]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (大土2)
+[2019.07.29-11.41.58:860][785]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (大土)
+[2019.07.29-11.42.00:224][930]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (大土2)
+[2019.07.29-11.42.03:456][272]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (大土)
+[2019.07.29-11.42.04:168][340]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (大土2)
+[2019.07.29-11.42.04:835][408]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (大土)
+[2019.07.29-11.42.05:825][514]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (大土2)
+[2019.07.29-11.42.13:722][331]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2019.07.29-11.42.15:831][551]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.07.29-11.42.16:728][641]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-11.42.16:802][650]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.29-11.42.16:812][650]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.07.29-11.42.16:812][650]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.29-11.42.16:813][650]PIE: New page: PIE session: 2DSideScrollerExampleMap (2019年7月30日 上午3:42:16)
+[2019.07.29-11.42.16:827][650]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.07.29-11.42.16:830][650]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002723s)
+[2019.07.29-11.42.16:831][650]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.07.29-11.42.16:831][650]LogPlayLevel: PIE: World Init took: (0.000882s)
+[2019.07.29-11.42.16:831][650]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003944s)
+[2019.07.29-11.42.16:875][650]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2019.07.29-11.42.16:922][650]LogInit: XAudio2 using '喇叭 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.29-11.42.17:028][650]LogInit: FAudioDevice initialized.
+[2019.07.29-11.42.17:072][650]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.07.29-11.42.17:074][650]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2019.07.29-19.42.17
+[2019.07.29-11.42.17:075][650]LogWorld: Bringing up level for play took: 0.001010
+[2019.07.29-11.42.17:105][650]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2019.07.29-11.42.17:106][650]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 1.271
+[2019.07.29-11.42.17:107][650]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.07.29-11.42.19:396][917]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.07.29-11.42.19:397][917]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-11.42.19:430][917]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.29-11.42.19:430][917]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.07.29-11.42.19:469][917]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-11.42.19:473][917]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2019.07.29-11.42.19:501][919]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.07.29-11.42.22:507][254]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (大土)
+[2019.07.29-11.42.24:158][407]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-11.42.26:393][640]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (大土2)
+[2019.07.29-11.42.28:138][820]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-11.42.32:723][297]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-11.42.32:799][306]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.29-11.42.32:809][306]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.07.29-11.42.32:809][306]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.29-11.42.32:810][306]PIE: New page: PIE session: 2DSideScrollerExampleMap (2019年7月30日 上午3:42:32)
+[2019.07.29-11.42.32:810][306]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.07.29-11.42.32:812][306]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002560s)
+[2019.07.29-11.42.32:813][306]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.07.29-11.42.32:813][306]LogPlayLevel: PIE: World Init took: (0.000626s)
+[2019.07.29-11.42.32:813][306]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003349s)
+[2019.07.29-11.42.32:850][306]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2019.07.29-11.42.32:893][306]LogInit: XAudio2 using '喇叭 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.29-11.42.32:998][306]LogInit: FAudioDevice initialized.
+[2019.07.29-11.42.33:027][306]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.07.29-11.42.33:029][306]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2019.07.29-19.42.33
+[2019.07.29-11.42.33:029][306]LogWorld: Bringing up level for play took: 0.000846
+[2019.07.29-11.42.33:044][306]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 1.208
+[2019.07.29-11.42.33:044][306]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.07.29-11.42.42:520][416]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.07.29-11.42.42:521][416]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-11.42.42:554][416]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.29-11.42.42:554][416]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.07.29-11.42.42:599][416]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-11.42.42:602][416]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2019.07.29-11.42.42:626][417]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.07.29-11.42.50:739][345]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (大土)
+[2019.07.29-11.42.52:103][434]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (大土2)
+[2019.07.29-11.42.57:905][ 32]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-11.43.00:746][273]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-11.43.15:485][769]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-11.43.18:169][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-11.43.36:595][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-11.43.40:494][225]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-11.43.49:586][139]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2019.07.29-11.43.55:446][760]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (只有草2)
+[2019.07.29-11.44.01:262][311]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (只有草1)
+[2019.07.29-11.44.13:181][618]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.29-11.44.13:270][628]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.29-11.44.13:280][628]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.07.29-11.44.13:280][628]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.29-11.44.13:280][628]PIE: New page: PIE session: 2DSideScrollerExampleMap (2019年7月30日 上午3:44:13)
+[2019.07.29-11.44.13:280][628]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.07.29-11.44.13:282][628]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002409s)
+[2019.07.29-11.44.13:283][628]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.07.29-11.44.13:283][628]LogPlayLevel: PIE: World Init took: (0.000629s)
+[2019.07.29-11.44.13:283][628]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003181s)
+[2019.07.29-11.44.13:321][628]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2019.07.29-11.44.13:354][628]LogInit: XAudio2 using '喇叭 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.29-11.44.13:455][628]LogInit: FAudioDevice initialized.
+[2019.07.29-11.44.13:487][628]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.07.29-11.44.13:489][628]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2019.07.29-19.44.13
+[2019.07.29-11.44.13:490][628]LogWorld: Bringing up level for play took: 0.001374
+[2019.07.29-11.44.13:504][628]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.331
+[2019.07.29-11.44.13:504][628]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.07.29-11.44.34:431][ 68]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.07.29-11.44.34:431][ 68]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-11.44.34:464][ 68]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.29-11.44.34:464][ 68]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.07.29-11.44.34:509][ 68]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.29-11.44.34:514][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2019.07.29-11.44.34:539][ 69]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.07.29-11.44.51:717][117]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.29-11.45.20:560][194]LogEditorFactories: Performing atomic reimport of [D:/MAP/房子1.png]
+[2019.07.29-11.45.20:564][194]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/MAP/房子1.png)
+[2019.07.29-11.45.20:624][194]LogTexture: Display: Building textures: 房子1 (AutoDXT, 1600X1200)
+[2019.07.29-11.45.23:161][194]LogEditorFactories: -- imported successfully
+[2019.07.29-11.45.26:138][535]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/2DSideScroller/Textures/房子1.房子1
+[2019.07.29-11.45.28:464][728]LogSlate: Window '房子1' being destroyed
+[2019.07.29-11.45.28:472][728]LogSlate: Window '房子1' being destroyed
+[2019.07.29-11.45.33:870][330]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.07.29-11.45.36:085][330]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.215 s
+[2019.07.29-11.45.36:085][330]LogOutputDevice: Error: === Handled ensure: ===
+[2019.07.29-11.45.36:085][330]LogOutputDevice: Error: 
+[2019.07.29-11.45.36:085][330]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateDynamicImageBrush.h] [Line: 119]
+[2019.07.29-11.45.36:085][330]LogOutputDevice: Error: This hack usually results in a crash during loading screens in slate.  Please change any code that arrives here to not use FSlateDynamicImageBrush.  In the case of loading screens, you can use FDeferredCleanupSlateBrush.  Which correctly accounts for both GC lifetime, and the lifetime of the object through the slate rendering pipeline which may be several frames after you stop using it.
+[2019.07.29-11.45.36:085][330]LogOutputDevice: Error: Stack: 
+[2019.07.29-11.45.36:085][330]LogOutputDevice: Error: [Callstack] 0x00007ffd2ecf7c88 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.07.29-11.45.36:085][330]LogOutputDevice: Error: [Callstack] 0x00007ffd2ebde1d9 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.07.29-11.45.36:085][330]LogOutputDevice: Error: [Callstack] 0x00007ffd2eb45dfa UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.07.29-11.45.36:085][330]LogOutputDevice: Error: [Callstack] 0x00007ffd21a28a2c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.07.29-11.45.36:085][330]LogOutputDevice: Error: [Callstack] 0x00007ffd215228eb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.07.29-11.45.36:085][330]LogOutputDevice: Error: [Callstack] 0x00007ffd0c59d68a UE4Editor-AssetTools.dll!UnknownFunction []
+[2019.07.29-11.45.36:085][330]LogOutputDevice: Error: [Callstack] 0x00007ffd0b38fff5 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.07.29-11.45.36:085][330]LogOutputDevice: Error: [Callstack] 0x00007ffd0b367838 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.07.29-11.45.36:085][330]LogOutputDevice: Error: [Callstack] 0x00007ffd0b3adda4 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.07.29-11.45.36:085][330]LogOutputDevice: Error: [Callstack] 0x00007ffd0b2e0e4d UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.07.29-11.45.36:085][330]LogOutputDevice: Error: [Callstack] 0x00007ffd0b2c3d59 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.07.29-11.45.36:085][330]LogOutputDevice: Error: [Callstack] 0x00007ffd22dab6e4 UE4Editor-Slate.dll!UnknownFunction []
+[2019.07.29-11.45.36:085][330]LogOutputDevice: Error: [Callstack] 0x00007ffd22d7ee59 UE4Editor-Slate.dll!UnknownFunction []
+[2019.07.29-11.45.36:085][330]LogOutputDevice: Error: [Callstack] 0x00007ffd22ddcc60 UE4Editor-Slate.dll!UnknownFunction []
+[2019.07.29-11.45.36:085][330]LogOutputDevice: Error: [Callstack] 0x00007ffd22be5efe UE4Editor-Slate.dll!UnknownFunction []
+[2019.07.29-11.45.36:085][330]LogOutputDevice: Error: [Callstack] 0x00007ffd22bde8ff UE4Editor-Slate.dll!UnknownFunction []
+[2019.07.29-11.45.36:085][330]LogOutputDevice: Error: [Callstack] 0x00007ffd22bca506 UE4Editor-Slate.dll!UnknownFunction []
+[2019.07.29-11.45.36:085][330]LogOutputDevice: Error: [Callstack] 0x00007ffd22bbff82 UE4Editor-Slate.dll!UnknownFunction []
+[2019.07.29-11.45.36:085][330]LogOutputDevice: Error: [Callstack] 0x00007ffd67dab932 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.07.29-11.45.36:085][330]LogOutputDevice: Error: [Callstack] 0x00007ffd67d9ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.07.29-11.45.36:085][330]LogOutputDevice: Error: [Callstack] 0x00007ffd67dad77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.07.29-11.45.36:085][330]LogOutputDevice: Error: [Callstack] 0x00007ffd67d9c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.07.29-11.45.36:085][330]LogOutputDevice: Error: [Callstack] 0x00007ffd6ffa6d41 USER32.dll!UnknownFunction []
+[2019.07.29-11.45.36:085][330]LogOutputDevice: Error: [Callstack] 0x00007ffd6ffa6713 USER32.dll!UnknownFunction []
+[2019.07.29-11.45.36:085][330]LogOutputDevice: Error: [Callstack] 0x00007ffd67dae946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.07.29-11.45.36:085][330]LogOutputDevice: Error: [Callstack] 0x00007ff6e5825d3e UE4Editor.exe!UnknownFunction []
+[2019.07.29-11.45.36:085][330]LogOutputDevice: Error: [Callstack] 0x00007ff6e583554c UE4Editor.exe!UnknownFunction []
+[2019.07.29-11.45.36:085][330]LogOutputDevice: Error: [Callstack] 0x00007ff6e58355ca UE4Editor.exe!UnknownFunction []
+[2019.07.29-11.45.36:086][330]LogOutputDevice: Error: [Callstack] 0x00007ff6e584316c UE4Editor.exe!UnknownFunction []
+[2019.07.29-11.45.36:086][330]LogOutputDevice: Error: [Callstack] 0x00007ff6e5845b8e UE4Editor.exe!UnknownFunction []
+[2019.07.29-11.45.36:086][330]LogOutputDevice: Error: [Callstack] 0x00007ffd70154034 KERNEL32.DLL!UnknownFunction []
+[2019.07.29-11.45.36:086][330]LogOutputDevice: Error: [Callstack] 0x00007ffd72a23691 ntdll.dll!UnknownFunction []
+[2019.07.29-11.45.36:086][330]LogOutputDevice: Error: 
+[2019.07.29-11.45.36:089][330]LogStats:                SubmitErrorReport -  0.000 s
